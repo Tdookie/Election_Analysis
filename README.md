@@ -19,3 +19,5 @@ The purpose of this election audit was to create a code using python that will a
 * The county with the highest turnout
 
 ## Election-Audit Results
+
+* **Total amount of votes casted**
