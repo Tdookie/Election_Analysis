@@ -40,4 +40,4 @@ The purpose of this election audit was to create a code using python that will a
 
 <img width="229" alt="Screen Shot 2021-03-02 at 2 36 48 PM" src="https://user-images.githubusercontent.com/77812423/109704549-bb0bf080-7b64-11eb-8a10-25923c453de7.png">
 
-##Election-Audit Summary
+#Election-Audit Summary
