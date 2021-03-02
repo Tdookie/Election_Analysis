@@ -35,3 +35,5 @@ The purpose of this election audit was to create a code using python that will a
 * **Breakdown of the number of votes and the percentage of the total votes each candidate received**
 
 <img width="325" alt="Screen Shot 2021-03-02 at 2 35 27 PM" src="https://user-images.githubusercontent.com/77812423/109704386-8c8e1580-7b64-11eb-9581-cf6a4331493a.png">
+
+* **Winning Candidate of Election**
