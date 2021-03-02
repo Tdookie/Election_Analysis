@@ -1,15 +1,3 @@
-# Open the data file.
-# Write down the names of all the candidates.
-# Add a vote count for each candidate.
-# Get the total votes for each candidate.
-# Get the total votes cast for the election.
-# Open the data file.
-# Write down the names of all the candidates.
-# Add a vote count for each candidate.
-# Get the total votes for each candidate.
-# Get the total votes cast for the election.
-file_to_load = 'Resources/election_results.csv'
-# Add our dependencies.
 # Add our dependencies.
 import csv
 import os
