@@ -1,6 +1,6 @@
 # Election_Analysis
 ## Overview of Election Audit 
-The purpose of this election audit was to create a code using python that will allow us to identify 
+The purpose of this project was to help a Colorado Board of Elections employee comple an election audit of a recent local congressional election by creating a code using python that will allow us to identify 
 
 * The total number of votes cast
 
@@ -41,3 +41,4 @@ The purpose of this election audit was to create a code using python that will a
 <img width="229" alt="Screen Shot 2021-03-02 at 2 36 48 PM" src="https://user-images.githubusercontent.com/77812423/109704549-bb0bf080-7b64-11eb-8a10-25923c453de7.png">
 
 ## Election-Audit Summary
+This script can be used to quickly identify each candidate and how many votes each candidate recieved, as well as each county and the county with the largest turnout. This script can easily be used for other elections to identify a candidtaes vote count and percentage, in addition to a county's vote count or vote percentage. 
