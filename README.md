@@ -21,3 +21,6 @@ The purpose of this election audit was to create a code using python that will a
 ## Election-Audit Results
 
 * **Total amount of votes casted**
+
+<img width="241" alt="Screen Shot 2021-03-02 at 2 28 47 PM" src="https://user-images.githubusercontent.com/77812423/109703701-c579ba80-7b63-11eb-82c7-ad182a3fa974.png">
+
