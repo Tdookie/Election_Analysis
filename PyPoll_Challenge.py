@@ -71,7 +71,7 @@ with open(file_to_load) as election_data:
             county_votes[county_name] = 0
 
         # 5: Add a vote to that county's vote count.
-            county_votes[county_name] += 1
+        county_votes[county_name] += 1
 
 
 # Save the results to our text file.
@@ -136,7 +136,7 @@ with open(file_to_save, "w") as txt_file:
 
         # Determine winning vote count, winning percentage, and candidate.
         if (votes > winning_count) and (vote_percentage > winning_percentage):
-            largest_county = votes
+            winning_count = votes
             winning_candidate = candidate_name
             winning_percentage = vote_percentage
 
@@ -148,6 +148,5 @@ with open(file_to_save, "w") as txt_file:
         f"Winning Percentage: {winning_percentage:.1f}%\n"
         f"-------------------------\n")
     print(winning_candidate_summary)
-
     # Save the winning candidate's name to the text file
     txt_file.write(winning_candidate_summary)
